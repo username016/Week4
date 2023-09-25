@@ -6,3 +6,8 @@ for num in range(20,10,-1): #The upper bound is excluded (it will not print the 
     
 for num in range(10):
     print(num)
+    
+number = [1,12,45,90]
+print(type(number))
+print((number[2]))
+print(len(number))
